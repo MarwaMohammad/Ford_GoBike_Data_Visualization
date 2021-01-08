@@ -1,0 +1,13 @@
+https://towardsdatascience.com/jump-out-of-the-jupyter-notebook-with-nbconvert-7d4748960702
+
+
+https://towardsdatascience.com/complete-guide-to-data-visualization-with-python-2dd74df12b5e
+
+!jupyter nbconvert Your_Slide_Deck_Name.ipynb --to slides --post serve  --no-input --no-prompt
+
+jupyter nbconvert Your_Slide_Deck_Name.ipynb --to slides --post serve  --no-input --no-prompt
+
+https://guides.library.duke.edu/datavis/topten
+https://cloud.google.com/blog/products/ai-machine-learning/building-ml-models-with-eda-feature-selection
+
+
